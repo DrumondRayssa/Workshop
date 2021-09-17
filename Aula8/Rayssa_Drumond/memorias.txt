@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Ai Ai Ai Não fez o git pull
+=======
+Minhas memórias são RAM< ROM,
+>>>>>>> 8c4320baaa716276fcd34975dfb292e1fdee86f1
